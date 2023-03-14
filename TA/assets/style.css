@@ -1,0 +1,28 @@
+.item1{
+    text-align: center;
+    background-color:dodgerblue;
+    height: 120px;
+}
+h1{
+  padding-top: 30px;
+  color: azure;
+}
+.item2{
+    text-align: center;
+    height: 400;
+}
+.yazi{
+    color: black;
+}
+.i{
+    border: 1px;
+    width: 20%;
+    margin: 1.53%;
+    margin-left: 65px ;
+    display: inline-block;
+    color: aliceblue;
+}
+.item3{
+    text-align: center;
+   background-color:steelblue;
+}
